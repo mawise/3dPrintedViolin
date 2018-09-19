@@ -58,7 +58,7 @@ With these observations I set out to make some modifications.  The folks over at
 
 The modular nature of the violin means I could remove the neck and fingerboard and only rebuild those parts.  Given my experience cleaning up support material I was very careful about where I printed supports.  This led to a total failure of the top part of the fingerboard to print (not enough support) as well as a partial failure of the lower part of the fingerboard.  I didn't notice that the lower portiton of the fingerboard was slightly bowed until I tried installing it.  So I broke it off because I really wanted to play this iteration.
 
-[Video of my wife playing version 2.1](https://youtu.be/_Sm5WY6CksM)
+[Video of my wife playing version 2.1](https://youtu.be/d8N1SEMo4Es)
 
 ## Next Steps
 
