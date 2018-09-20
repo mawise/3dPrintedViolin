@@ -10,7 +10,7 @@ The 3d printer was an [Ultimaker 3 Extended](https://ultimaker.com/en/products/u
 
 This part took about five days to print plus two more to dissolve the support material.  It is heavily striated and there are holes where a stream of PVA crossed the path where I wanted my violin to be.
 
-I had much more success printing my parts laying down instead of standing up.  The striations almost look like a wood grain in that orientation and I didn't have any more issues with PVA leaving holes in the finished part.  I needed about four more five-day prints to make the main body and all the little bits.  The design calls for inserting carbon-fiber rods for structural support and the parts have perfectly-sized slots for those rods.  At least the slots are prefectly-sized if you have a perfect 3d printer.  I also found out on these parts that dissolving PVA seems to warm the PLA plastic of the part.
+I had much more success printing my parts laying down instead of standing up.  The striations almost look like a wood grain in that orientation and I didn't have any more issues with PVA leaving holes in the finished part.  I needed about four more five-day prints to make the main body and all the little bits.  The design calls for inserting carbon-fiber rods for structural support and the parts have perfectly-sized slots for those rods.  At least the slots are prefectly-sized if you have a perfect 3d printer.  I also found out on these parts that dissolving PVA seems to warp the PLA plastic of the part.
 
 ![edges of main body dont match up](img/1/IMG_20180908_082155.jpg)
 
